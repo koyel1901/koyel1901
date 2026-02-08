@@ -1,7 +1,6 @@
 👩‍💻 Hii I'm Koyel Biswas  
 🎓 Third-Year CSE Student at Graphic Era Deemed to be University, pursuing B.Tech in Computer Science and Engineering. <br/>
 💡 Passionate about DSA, Problem Solving, and building intelligent systems that create real-world impact.<br/>
-🧠 Currently exploring NLP, Deep Learning, and Software Engineering through academic projects and self-driven learning.<br/>
 📫 Connect with Me!
 
 ## 🌐 Socials:
