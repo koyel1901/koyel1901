@@ -3,7 +3,7 @@
 🎓 Third-Year CSE Student at Graphic Era Deemed to be University, pursuing B.Tech in Computer Science and Engineering. <br/>  
 💡 Passionate about DSA, Problem Solving, and building intelligent systems that create real-world impact.<br/>  
 
-📫 Connect with Me!  
+📫 Connect with Me!
 
 ## 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koyel-biswas-335258330)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:biswaskoyel19@gmail.com)  
